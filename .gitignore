@@ -1,0 +1,11 @@
+.DS_Store
+*.gcode
+configs/
+gcode/
+layers/
+models/
+*.scad
+model_lib/*.stl
+model_lib/*.scad
+model_lib/*.png
+*__pycache__/
